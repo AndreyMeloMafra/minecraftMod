@@ -1,13 +1,8 @@
 package com.factorybr.testMod.items;
 
 import com.factorybr.testMod.TestMod;
-import net.minecraft.resources.ResourceKey;
-import net.minecraft.world.flag.FeatureFlag;
-import net.minecraft.world.item.CreativeModeTabs;
 import net.minecraft.world.item.Item;
-import net.minecraftforge.event.BuildCreativeModeTabContentsEvent;
 import net.minecraftforge.eventbus.api.IEventBus;
-import net.minecraftforge.eventbus.api.SubscribeEvent;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.RegistryObject;
